@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="3929">
+        <firstname>Pinco</firstname>
+        <lastname>Pallino</lastname>
+        <birthdate>2012-5-22</birthdate>
+        <activitypreference>
+            <name>Marco</name>
+            <description>dance</description>
+            <place>Chiesa cristiana</place>
+            <startdate>2014-09-20T18:00:00.000+02:00</startdate>
+        </activitypreference>
+    </person>
+    <person id="1">
+        <firstname>Pallo</firstname>
+        <lastname>Pinco</lastname>
+        <birthdate>1984-06-21</birthdate>
+        <activitypreference>
+            <name>Marco</name>
+            <description>dance</description>
+            <place>Chiesa cristiana</place>
+            <startdate>2014-09-20T18:00:00.000+02:00</startdate>
+        </activitypreference>
+    </person>
+    <person id="2">
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <birthdate>1985-03-20</birthdate>
+        <activitypreference>
+            <name>running</name>
+            <description>running to the park</description>
+            <place>Gocciadoro</place>
+            <startdate>2014-09-20T18:00:00.000+02:00</startdate>
+        </activitypreference>
+    </person>
+</people>

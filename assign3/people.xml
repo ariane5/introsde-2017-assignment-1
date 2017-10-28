@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="0001">
+        <firstname>Jean </firstname>
+        <lastname>Marie</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    
+    <person id="0002">
+        <firstname>John</firstname>
+        <lastname>Jacques</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="102">
+           <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+
+   <person id="0003">
+        <firstname>Jeremy</firstname>
+        <lastname>Ezeckia</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="103">
+           <name>Museum</name>
+            <description>Running to the Museum</description>
+            <place>Trento</place>
+            <startdate>2017-10-13</startdate>
+        </activitypreference>
+    </person>
+
+<person id="0004">
+        <firstname>exode</firstname>
+        <lastname>Israel</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="104">
+            <name>Reading</name>
+            <description>reading the bible</description>
+            <place>Gocciadoro</place>
+            <startdate>2018-10-13</startdate>
+        </activitypreference>
+    </person>
+<person id="0005">
+        <firstname>Jacob</firstname>
+        <lastname>Jude</lastname>
+        <birthdate>1984-09-20</birthdate>
+       <activitypreference id="105">
+            <name>Reading</name>
+            <description>Reading my notes</description>
+            <place>Gocciadoro</place>
+            <startdate>2018-10-13</startdate>
+       </activitypreference>
+    </person><person id="0006">
+        <firstname>Thomas</firstname>
+        <lastname>Pierre</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="106">
+            <name>listening</name>
+            <description>listening the music</description>
+            <place>Gocciadoro</place>
+            <startdate>2018-10-13</startdate>
+       </activitypreference>
+    </person>
+<person id="0007">
+        <firstname>Jeanne</firstname>
+        <lastname>anne</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="107">
+            <name>listening</name>
+            <description>listening the gospel</description>
+            <place>Lunelli</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0008">
+        <firstname>daniel</firstname>
+        <lastname>obed</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="108">
+            <name>preaching</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-14T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0009">
+        <firstname>Meshack</firstname>
+        <lastname>shadrrack</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="109">
+            <name>school</name>
+            <description>Running to school</description>
+            <place>lunelli</place>
+            <startdate>2017-10-17T07:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0010">
+        <firstname>Esther</firstname>
+        <lastname>Mardochee</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="110">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0011">
+        <firstname>Joseph</firstname>
+        <lastname>Jacob</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="111">
+           <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0013">
+        <firstname>Abraham</firstname>
+        <lastname>Ruth</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="113">
+            <name>Singing</name>
+            <description>Singing the gospel</description>
+            <place>lunelli centochiavi</place>
+            <startdate>2017-10-19T10:00:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0014">
+        <firstname>Naomie</firstname>
+        <lastname>Jonas</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="114">
+            <name>saxophone</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-11-13</startdate>
+        </activitypreference>
+    </person>
+<person id="0015">
+        <firstname>Paul</firstname>
+        <lastname>Pierre</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="115">
+           <name>piano</name>
+            <description>playing the piano</description>
+            <place>lunelli</place>
+            <startdate>2017-10-15T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0016">
+        <firstname>David</firstname>
+        <lastname>Johnatan</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <activitypreference id="116">
+            <name>guitar</name>
+            <description>playing the guitar</description>
+            <place>lunelli</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0017">
+        <firstname>Matthias</firstname>
+        <lastname>Etienne</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <activitypreference id="117">
+           <name>preaching</name>
+            <description>preach the gospel</description>
+            <place>Jerusalem</place>
+            <startdate>2017-10-19T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0018">
+        <firstname>Bathelemy</firstname>
+        <lastname>Philippe</lastname>
+        <birthdate>1984-09-20</birthdate>
+       <activitypreference id="118">
+            <name>reading</name>
+            <description>Reading a book</description>
+            <place>home</place>
+            <startdate>2017-12-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+<person id="0019">
+        <firstname>Aimee</firstname>
+        <lastname>Bethesda</lastname>
+        <birthdate>1984-09-20</birthdate>
+       <activitypreference id="119">
+           <name>school</name>
+            <description>Running to school</description>
+            <place>Mattarello</place>
+            <startdate>2017-10-14T07:00:00.0</startdate>
+        </activitypreference>
+    </person>    
+<person id="0020">
+        <firstname>Jesus</firstname>
+        <lastname>Alpha and omega</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="120">
+           <name>exhorting</name>
+            <description>to read the bible</description>
+            <place>everywhere</place>
+            <startdate>2017-10-16T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+
+</people>
+

@@ -1,0 +1,36 @@
+{
+  "person" : [ {
+    "firstname" : "Pinco",
+    "lastname" : "Pallino",
+    "birthdate" : "1998-2-12",
+    "activitypreference" : {
+      "name" : "Marco",
+      "description" : "dance",
+      "place" : "Chiesa cristiana",
+      "startdate" : "2014-09-20T18:00:00.000+02:00"
+    },
+    "id" : 5055
+  }, {
+    "firstname" : "Fulano",
+    "lastname" : "De Tal",
+    "birthdate" : "1984-06-21",
+    "activitypreference" : {
+      "name" : "Marco",
+      "description" : "dance",
+      "place" : "Chiesa cristiana",
+      "startdate" : "2014-09-20T18:00:00.000+02:00"
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Jane",
+    "lastname" : "Doe",
+    "birthdate" : "1985-03-20",
+    "activitypreference" : {
+      "name" : "walking",
+      "description" : "walking to the forest",
+      "place" : "Gocciadoro",
+      "startdate" : "2014-09-20T18:00:00.000+02:00"
+    },
+    "id" : 2
+  } ]
+}
