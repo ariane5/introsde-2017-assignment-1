@@ -1,8 +1,8 @@
 ASSIGNMENT #1 
 
 IDENTIFICATION
- Wambo Metuedjo Ariane Peggy
- ariane.wambometuedjo@studenti.unitn.it
+  1.  Wambo Metuedjo Ariane Peggy
+  2.  ariane.wambometuedjo@studenti.unitn.it
 
 
 THE CODE
