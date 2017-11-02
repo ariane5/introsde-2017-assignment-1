@@ -23,7 +23,7 @@ The tasks that run in this assignment are the following:
 
 HOW TO EXECUTE AND COMPILE
 
-  1. git clone git@github.com:ariane5/introsde-2017-assignment-1.git
-  2. cd introsde-2017-assignment-1/assign3
-  3. ant execute.evaluation
+  1. open eclipse 
+  2. load the project
+  3. ant execute.evaluation on buid.xml
 
