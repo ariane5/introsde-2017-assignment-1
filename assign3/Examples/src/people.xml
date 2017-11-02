@@ -8,7 +8,7 @@
             <name>Running</name>
             <description>Running to the Park</description>
             <place>Gocciadoro</place>
-            <startdate>2017-10-13T11:50:00.0</startdate>
+            <startdate>2017-10-13</startdate>
         </activitypreference>
     </person>
     
@@ -20,7 +20,7 @@
            <name>Running</name>
             <description>Running to the Park</description>
             <place>Gocciadoro</place>
-            <startdate>2017-10-13T11:50:00.0</startdate>
+            <startdate>2017-10-13</startdate>
         </activitypreference>
     </person>
 
@@ -44,7 +44,7 @@
             <name>Reading</name>
             <description>reading the bible</description>
             <place>Gocciadoro</place>
-            <startdate>2018-15-11 </startdate>
+            <startdate>2017-10-13</startdate>
         </activitypreference>
     </person>
 <person id="0005">
@@ -55,9 +55,11 @@
             <name>Reading</name>
             <description>Reading my notes</description>
             <place>Gocciadoro</place>
-            <startdate>2018-14-11 </startdate>
+            <startdate>2018-12-21</startdate>
        </activitypreference>
-    </person><person id="0006">
+    </person>
+
+<person id="0006">
         <firstname>Thomas</firstname>
         <lastname>Pierre</lastname>
         <birthdate>1984-09-20</birthdate>
@@ -65,9 +67,10 @@
             <name>listening</name>
             <description>listening the music</description>
             <place>Gocciadoro</place>
-            <startdate>2018-16-14</startdate>
+            <startdate>2018-12-24</startdate>
        </activitypreference>
     </person>
+
 <person id="0007">
         <firstname>Jeanne</firstname>
         <lastname>anne</lastname>
@@ -76,9 +79,10 @@
             <name>listening</name>
             <description>listening the gospel</description>
             <place>Lunelli</place>
-            <startdate>2017-10-13T11:50:00.0</startdate>
+            <startdate>2017-10-13</startdate>
         </activitypreference>
     </person>
+
 <person id="0008">
         <firstname>daniel</firstname>
         <lastname>obed</lastname>
@@ -87,9 +91,10 @@
             <name>preaching</name>
             <description>Running to the Park</description>
             <place>Gocciadoro</place>
-            <startdate>2017-10-14T11:50:00.0</startdate>
+            <startdate>2017-10-14</startdate>
         </activitypreference>
     </person>
+
 <person id="0009">
         <firstname>Meshack</firstname>
         <lastname>shadrrack</lastname>
@@ -98,9 +103,11 @@
             <name>school</name>
             <description>Running to school</description>
             <place>lunelli</place>
-            <startdate>2017-13-10 </startdate>
+            <startdate>2017-12-10</startdate>
         </activitypreference>
     </person>
+
+
 <person id="0010">
         <firstname>Esther</firstname>
         <lastname>Mardochee</lastname>
@@ -109,9 +116,10 @@
             <name>Running</name>
             <description>Running to the Park</description>
             <place>Gocciadoro</place>
-            <startdate>2017-13-10 </startdate>
+            <startdate>2017-12-10 </startdate>
         </activitypreference>
     </person>
+
 <person id="0011">
         <firstname>Joseph</firstname>
         <lastname>Jacob</lastname>
@@ -120,9 +128,10 @@
            <name>Running</name>
             <description>Running to the Park</description>
             <place>Gocciadoro</place>
-            <startdate>2018-13-10 </startdate>
+            <startdate>2018-12-20 </startdate>
         </activitypreference>
     </person>
+
 <person id="0013">
         <firstname>Abraham</firstname>
         <lastname>Ruth</lastname>
@@ -131,9 +140,10 @@
             <name>Singing</name>
             <description>Singing the gospel</description>
             <place>lunelli centochiavi</place>
-            <startdate>2019-13-10 </startdate>
+            <startdate>2019-12-21</startdate>
         </activitypreference>
     </person>
+
 <person id="0014">
         <firstname>Naomie</firstname>
         <lastname>Jonas</lastname>
@@ -145,6 +155,7 @@
             <startdate>2017-11-13</startdate>
         </activitypreference>
     </person>
+
 <person id="0015">
         <firstname>Paul</firstname>
         <lastname>Pierre</lastname>
@@ -153,9 +164,11 @@
            <name>piano</name>
             <description>playing the piano</description>
             <place>lunelli</place>
-            <startdate>2017-10-15T11:50:00.0</startdate>
+            <startdate>2017-10-15</startdate>
         </activitypreference>
     </person>
+
+
 <person id="0016">
         <firstname>David</firstname>
         <lastname>Johnatan</lastname>
@@ -164,9 +177,10 @@
             <name>guitar</name>
             <description>playing the guitar</description>
             <place>lunelli</place>
-            <startdate>2017-10-13T11:50:00.0</startdate>
+            <startdate>2017-10-13</startdate>
         </activitypreference>
     </person>
+
 <person id="0017">
         <firstname>Matthias</firstname>
         <lastname>Etienne</lastname>
@@ -175,9 +189,11 @@
            <name>preaching</name>
             <description>preach the gospel</description>
             <place>Jerusalem</place>
-            <startdate>2017-10-19T11:50:00.0</startdate>
+            <startdate>2017-10-19</startdate>
         </activitypreference>
     </person>
+
+
 <person id="0018">
         <firstname>Bathelemy</firstname>
         <lastname>Philippe</lastname>
@@ -186,9 +202,11 @@
             <name>reading</name>
             <description>Reading a book</description>
             <place>home</place>
-            <startdate>2017-12-13T11:50:00.0</startdate>
+            <startdate>2017-12-13</startdate>
         </activitypreference>
     </person>
+
+
 <person id="0019">
         <firstname>Aimee</firstname>
         <lastname>Bethesda</lastname>
@@ -197,9 +215,10 @@
            <name>school</name>
             <description>Running to school</description>
             <place>Mattarello</place>
-            <startdate>2017-10-14T07:00:00.0</startdate>
+            <startdate>2017-10-14</startdate>
         </activitypreference>
-    </person>    
+    </person>  
+  
 <person id="0020">
         <firstname>Jesus</firstname>
         <lastname>Alpha and omega</lastname>
@@ -208,9 +227,8 @@
            <name>exhorting</name>
             <description>to read the bible</description>
             <place>everywhere</place>
-            <startdate>2017-10-16T11:50:00.0</startdate>
+            <startdate>2017-10-16</startdate>
         </activitypreference>
-    </person>
+ </person>
 
 </people>
-
